@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdvancedMasterDetails</string>
+    <string name="label_name">Adrian Pieper</string>
+    <string name="calc">Licz</string>
+    <string name="calc_error">Błąd obliczeń</string>
+    <string name="currencyValue">Ilość gotówki</string>
+    <string name="investment">Kalkulator lokat</string>
+    <string name="currency_calculator">Kalkulator Walut</string>
+</resources>

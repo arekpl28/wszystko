@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Number ListView</string>
+    <string name="dodaj_liczb">Dodaj liczbę</string>
+    <string name="mean">Mean</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+</resources>
